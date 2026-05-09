@@ -1,2 +1,0 @@
-# openstaff-platform
-platforma jobs
